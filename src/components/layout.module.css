@@ -1,0 +1,25 @@
+.container {
+  margin: 3rem auto;
+  max-width: 650px;
+  padding: 0 1rem;
+}
+
+.header {
+  margin-bottom: 1.5rem;
+}
+
+.logoText {
+  display: inline;
+  text-shadow: 'none';
+  background-image: none;
+}
+
+.menuList {
+  list-style: none;
+  float: right;
+}
+
+.menuLink {
+  display: inline-block;
+  margin-right: 1rem;
+}
