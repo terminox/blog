@@ -8,10 +8,13 @@
   margin-bottom: 1.5rem;
 }
 
-.logoText {
-  display: inline;
+.logo {
   text-shadow: 'none';
   background-image: none;
+}
+
+.logoText {
+  display: inline;
 }
 
 .menuList {

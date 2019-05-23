@@ -12,7 +12,7 @@ const MenuLink = (props) => (
 const Layout = ({ children }) => (
   <div className={styles.container}>
     <header className={styles.header}>
-      <Link to="/">
+      <Link to="/" className={styles.logo}>
         <h3 className={styles.logoText}>Yossapas</h3>
       </Link>
 
