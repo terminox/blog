@@ -20,3 +20,4 @@ import elkGlenTheme from 'typography-theme-elk-glen'
 const typography = new Typography(elkGlenTheme)
 
 export default typography
+export const { scale, rhythm, options } = typography
